@@ -3,10 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/WorkSpace/CadastroEE/CadastroEE/CadastroEE-ejb/src/java/cadastroee/model/Produto.java</file>
-            <file>file:/C:/WorkSpace/CadastroEE/CadastroEE/CadastroEE-ejb/src/java/cadastroee/controller/AbstractFacade.java</file>
-            <file>file:/C:/WorkSpace/CadastroEE/CadastroEE/CadastroEE-ejb/src/java/cadastroee/controller/ProdutoFacade.java</file>
-            <file>file:/C:/WorkSpace/CadastroEE/CadastroEE/CadastroEE-ejb/src/java/cadastroee/controller/ProdutoFacadeLocal.java</file>
+            <file>file:/C:/WorkSpace/CadastroEE/CadastroEE/CadastroEE-ejb/src/conf/persistence.xml</file>
         </group>
     </open-files>
 </project-private>
